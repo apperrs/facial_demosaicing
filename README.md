@@ -1,4 +1,4 @@
-# Face Image De-pixelation and Restoration Project
+# Facial De-pixelization Based on Cascaded CycleGAN and Deep Convolutional Encoder-Decoder Network
 
 ## Overview
 In image processing, pixelation is commonly used for privacy protection, while de-pixelation aims to restore image quality. Traditional approaches primarily rely on mathematical and probabilistic models, whereas deep learning methods demonstrate superior performance through large-scale sample training. 
