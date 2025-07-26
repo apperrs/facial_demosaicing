@@ -1,5 +1,7 @@
 # Enhanced Facial De-pixelization: A Cascaded CycleGAN and DCEDN Approach
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16441619.svg)](https://doi.org/10.5281/zenodo.16441619)
+
 ## Overview
 In image processing, pixelation is commonly used for privacy protection, while de-pixelation aims to restore image quality. Traditional approaches primarily rely on mathematical and probabilistic models, whereas deep learning methods demonstrate superior performance through large-scale sample training. 
 
