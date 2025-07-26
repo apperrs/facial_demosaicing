@@ -23,8 +23,15 @@ We use the **CelebA dataset** (Large-scale CelebFaces Attributes Dataset) for fa
 - Official Website: [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 ## Environment Requirements
+To run this project, you'll need the following Python packages: 
+```bash
 opencv-python pillow torch torchvision torchaudio \
 torchsummary onnxruntime torch-optimizer ntpath matplotlib dominate
+```
+Set up your environment using:
+```bash
+pip install -r requirements.txt
+```
 
 ## Training Process
 
