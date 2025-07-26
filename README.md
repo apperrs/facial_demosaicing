@@ -55,6 +55,19 @@ python3 predict.py
 - **Optimized Training Pipeline**: Developed an effective step-by-step training strategy for both models
 - **Production-Ready Implementation**: Complete workflow from data processing to final prediction
 
+## Citation
+Please cite this repository and related paper as:
+```bibtex
+@misc{facial_depixel_2024,
+  author       = {Heng Zhang, YiJie Xue, Yanli Liu},
+  title        = {Enhanced Facial De-pixelization: A Cascaded CycleGAN and DCEDN Approach},
+  year         = {2024},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16441619},
+  url          = {https://doi.org/10.5281/zenodo.16441619}
+}
+```
+
 ## 📬 Contact
 
 For inquiries, collaborations, or feedback:  
