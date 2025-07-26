@@ -7,6 +7,8 @@ In image processing, pixelation is commonly used for privacy protection, while d
 
 This project innovatively proposes a **model cascading approach** that combines CycleGAN with DCEDN (Deep Convolutional Encoder-Decoder Network), effectively restoring facial pixelated images while addressing color shift issues.
 
+📢 **Citation Request:** If you use this code or reference our work, please consider citing our paper currently under review at *The Visual Computer*.
+
 **Key Features:**
 - Dual-stage architecture combining CycleGAN and DCEDN
 - Effective solution for color shift problems
