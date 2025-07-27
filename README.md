@@ -24,6 +24,7 @@ We use the **CelebA dataset** (Large-scale CelebFaces Attributes Dataset) for fa
 - Diverse pose variations and complex backgrounds
 - Official Website: [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
+We also provide a preprocessed version of **the CelebA dataset using YOLOv9** to facilitate more effective model training.[Google Drive](https://drive.google.com/file/d/1ELjUuNL3gEYpmdiyVP1-4s9OMPVvG2rT/view?usp=drive_link)
 ## Environment Requirements
 To run this project, you'll need the following Python packages: 
 ```bash
