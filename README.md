@@ -65,10 +65,3 @@ python3 predict.py
 - **Optimized Training Pipeline**: Developed an effective step-by-step training strategy for both models
 - **Production-Ready Implementation**: Complete workflow from data processing to final prediction
 
-<!--## 📬 Contact
-
-For inquiries, collaborations, or feedback:  
-✉️ [Email the maintainer](mailto:apperrs@gmail.com)  
-💻 Open to contributions and research collaborations  
--->
-
